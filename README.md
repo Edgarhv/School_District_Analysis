@@ -1,5 +1,8 @@
 # School_District_Analysis
-PyCitySchools with Pandas
+
+![img](WarpedUnitedFowl-mobile.gif)
+
+##### Source:https://gfycat.com/warpedunitedfowl
 
 Overview of the school district analysis: Explain the purpose of this analysis.
 
@@ -19,12 +22,12 @@ In the tables below, the difference when excluding the Thomas High Schools 9th g
 ![img](overall.png)
 ![img](overall2.png)
 #### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+We saw in the table above that replacing ninth graders’ math and reading scores does not affect their % Overall Passing marks. They are still within the 90 percentile passing mark.
+
 #### How does replacing the ninth-grade scores affect the following:
 Math and reading scores by grade
 Scores by school spending
 Scores by school size
 Scores by school type
 Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
-![img](WarpedUnitedFowl-mobile.gif)
 
-##### Source:https://gfycat.com/warpedunitedfowl
