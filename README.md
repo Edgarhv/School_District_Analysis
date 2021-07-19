@@ -9,7 +9,7 @@ The associated charts and descriptions for each bulleted list will address the f
 
 #### How is the district summary affected?
 Excluding the Thomas High Schools 9th grade students Reading and Math scores were slightly affected by tenths of average scores in Average Math Score, Average Reading Score, % Passing Math, % Passing Reading, and % Overall Passing.
-
+![img](overalldistrict2.png)
 ![img](overalldistrict.png)
 
 #### How is the school summary affected?
