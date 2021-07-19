@@ -8,6 +8,9 @@ The purpose of the **_"PyCitySchools_Challenge.ipynb"_** is to replace the math 
 The associated charts and descriptions for each bulleted list will address the following question. • How is the district summary affecting the overall analysis?
 
 How is the district summary affected?
+In the table below, the difference when excluding the Thomas High Schools 9th grade students Reading and Math scores are minimum. In this table, the Thomas High School scores without the 9th, slight decrease, for example in % Overall Passing from 90.948012 to 90.630324.  Comparing Thomas High School % Overall Passing placement does not change much either.    
+
+![img](overall.png)
 
 
 How is the school summary affected?
